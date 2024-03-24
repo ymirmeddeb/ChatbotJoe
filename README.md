@@ -2,6 +2,16 @@
 
 Welcome to Joe, your personal assistant for managing tasks! Below is a guide on how to use all the important features of Joe.
 
+## Quick Start
+
+- Ensure that you have the latest Java 11.
+- Download the [Joe.jar](nj) file present in this repository.
+- Create a new empty folder to use as the home folder for Joe, on your local drive.
+- Copy the jar file to the folder you have created.
+- Open a command terminal, cd to the folder with Joe.jar in it, and use java -jar Joe.jar to run the application.
+- The welcome message for Jarvas should be printed to the console.
+- Type commands in the command line and press Enter to execute it.
+
 ## Features 
 
 ### Todo Tasks
