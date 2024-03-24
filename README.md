@@ -183,3 +183,19 @@ Ok cutie patootie, here are the matching tasks in your list:
 1.[T] [X] read book
 2.[D] [ ] return book (by: Dec 20 2023, 18:00)
 ```
+
+### `bye` - Exit the chatbot
+
+Exits chatbot and writes task list data to Joe.txt. Exiting the chatbot without the command bye may write to Joe.txt but may also result in corruption.
+
+Example of usage:
+
+`bye`
+
+Expected outcome:
+
+Displays goodbye message and exits the chatbot.
+
+```
+Love ya <3 See ya!!
+```
